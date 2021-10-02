@@ -1,5 +1,5 @@
 var constants = {
-    dataBaseUrl: 'mongodb://127.0.0.1:27017/portfolio-tracker',
+    dataBaseUrl: 'mongodb+srv://admin:admin@cluster0.m2wtm.mongodb.net/portfolio-tracker?retryWrites=true&w=majority',
     currentPrice: 100,
 }
 
